@@ -1,0 +1,11 @@
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\bin\Debug\CarpimTablosu.exe.config
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\bin\Debug\CarpimTablosu.exe
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\bin\Debug\CarpimTablosu.pdb
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.Form1.resources
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.Properties.Resources.resources
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.GenerateResource.cache
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.exe
+C:\Users\Gamer\Desktop\işkur eğitim\CarpimTablosu\obj\Debug\CarpimTablosu.pdb
