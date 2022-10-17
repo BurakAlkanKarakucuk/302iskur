@@ -1,0 +1,29 @@
+-- start
+
+-- koltuk sayısı 16 dan az kac koltuk vardır
+--select count(KoltukID) from TBL_Koltuk where KoltukRakam<16
+
+--toplam kac bilet satılmıs
+--select count(BiletID) from TBL_Bilet
+
+--toplam kac koltuk vardır
+--select sum(KoltukRakam) from TBL_Koltuk
+
+--max kac koltuk var
+--select max(KoltukRakam) from TBL_Koltuk
+
+--ortalama koltuk sayısı
+--select AVG(KoltukRakam) from TBL_Koltuk
+
+--kapasitesi en az salon
+--select min(Kapasite) from TBL_Salon
+
+---- Personellerde adı A ile başlayan ve doğum tarihi 1997'den öncesi olan kaç personel vardır?
+--select COUNT(PersonelId) from TBL_Personel where PersonelAd like 'K%' and YEAR(PersonelDogTar)<1999 
+
+
+-- 'CACTU' 'Dumon' 'Peric' id li müsterler tarafından istenmis 2 nolu kargo firması tarafından tasınamamıs
+-- kargo ücreti 20 ile 200 dolar arası olan siparislere toplam ne kadarlık kargo ödemesi yapılmıstır.
+
+--select sum(Freight) from Orders where CustomerID In ('CACTU','Dumon','Peric') and ShipVia not In (2) and 
+--Freight between 20 and 200
